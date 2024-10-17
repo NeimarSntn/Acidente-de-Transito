@@ -4,6 +4,23 @@ Projeto Ebac curso Análista de Dados, tem o objetivo de prever se houve feridos
 
 Dados extraídos (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf).
 
-Notebook Google Colab.
+![image](https://github.com/user-attachments/assets/d649187d-af51-49e0-bf72-5e8ff329cfd5)
 
+![image](https://github.com/user-attachments/assets/ec156210-329d-411f-a18a-0352815f1780)
+
+![image](https://github.com/user-attachments/assets/91c60d9e-65e1-40a3-b8f6-a8780160693f)
+
+![image](https://github.com/user-attachments/assets/cd9055ad-3713-46c5-8378-b72e6a93e8db)
+
+![image](https://github.com/user-attachments/assets/23b251af-34b3-4a0a-aa23-02a97aad3533)
+
+![image](https://github.com/user-attachments/assets/28c4b5dc-290a-47dc-98bd-4df1a61798d7)
+
+![image](https://github.com/user-attachments/assets/913690c5-0ead-4bf9-9e79-2ed4a3411275)
+
+![image](https://github.com/user-attachments/assets/ab926e54-85de-4c83-86ff-fb84edc3accf)
+
+![image](https://github.com/user-attachments/assets/e5034c0a-57f7-47f9-b1fd-b6e8c8140eea)
+
+![image](https://github.com/user-attachments/assets/27429e1d-7cb2-4a51-a64a-b5446bcbad58)
 
