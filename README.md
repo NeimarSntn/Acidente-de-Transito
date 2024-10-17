@@ -1,7 +1,8 @@
 # Previsão de Feridos em Acidentes de Trânsito em Porto Alegre
 
-Este projeto utiliza dados de acidentes de trânsito em Porto Alegre (POA) para prever o número de feridos, utilizando técnicas de Machine Learning.
-O aumento de acidentes de trânsito nas cidades tem motivado o uso de dados para criar previsões e auxiliar nas políticas públicas de prevenção.
+Este projeto tem como objetivo utilizar dados históricos de acidentes de trânsito na cidade de Porto Alegre (POA) para prever a ocorrência de feridos. Usando técnicas de Machine Learning, o projeto busca identificar padrões nos acidentes e auxiliar na tomada de decisões para melhorar a segurança viária.
+
+O modelo foi treinado utilizando dados fornecidos pelas autoridades locais de trânsito e outras fontes públicas, e foi avaliado com base em métricas de desempenho como acurácia, precisão, recall, F1-Score, e ROC AUC.
 
 ## Tecnologias Utilizadas
 - Python
