@@ -1,7 +1,15 @@
-# Acidentes de Trânisto em POA-RS
+# Previsão de Feridos em Acidentes de Trânsito em Porto Alegre
 
-Projeto Ebac curso Análista de Dados, tem o objetivo de prever se houve feridos ou não em acidentes de trânsito por tipo de veículo no município de Porto Alegre - RS. 
+Este projeto utiliza dados de acidentes de trânsito em Porto Alegre (POA) para prever o número de feridos, utilizando técnicas de Machine Learning.
+O aumento de acidentes de trânsito nas cidades tem motivado o uso de dados para criar previsões e auxiliar nas políticas públicas de prevenção.
 
+## Tecnologias Utilizadas
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib/Seaborn
+- Jupyter Notebooks
+  
 Dados extraídos (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf).
 
 ![image](https://github.com/user-attachments/assets/d649187d-af51-49e0-bf72-5e8ff329cfd5)
