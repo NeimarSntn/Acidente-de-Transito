@@ -28,13 +28,13 @@ ROC AUC: 76.43%
 
 
 
-#Como Rodar no Google Colab
+# Como Rodar no Google Colab
 Passo 1: Baixar o Notebook
 Faça o download do arquivo AcidentesTransitoPOA.ipynb do repositório.
 Acesse o diretório notebooks/ e baixe o arquivo AcidentesTransitoPOA.ipynb.
 
 Passo 2: Acessar o Google Colab
-Vá para o site [Google Cola](https://colab.research.google.com)
+Vá para o site [Google Colab](https://colab.research.google.com)
 No menu principal, clique em "File" (Arquivo) e selecione "Upload notebook" (Carregar notebook).
 Selecione o arquivo AcidentesTransitoPOA.ipynb que você baixou no Passo 1.
 
