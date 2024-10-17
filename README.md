@@ -17,7 +17,31 @@ Resultados Obtidos
 O modelo de previsão de feridos em acidentes de trânsito em Porto Alegre apresentou os seguintes resultados ao ser avaliado com um conjunto de teste:
 
 Acurácia: 77.24%
+
 Precisão: 77.27%
+
 Recall: 73.91%
+
 F1-Score: 75.56%
+
 ROC AUC: 76.43%
+
+
+
+#Como Rodar no Google Colab
+Passo 1: Baixar o Notebook
+Faça o download do arquivo AcidentesTransitoPOA.ipynb do repositório.
+Acesse o diretório notebooks/ e baixe o arquivo AcidentesTransitoPOA.ipynb.
+
+Passo 2: Acessar o Google Colab
+Vá para o site [Google Cola](https://colab.research.google.com)
+No menu principal, clique em "File" (Arquivo) e selecione "Upload notebook" (Carregar notebook).
+Selecione o arquivo AcidentesTransitoPOA.ipynb que você baixou no Passo 1.
+
+Passo 3: Rodar as Células do Notebook
+Depois de carregar o notebook, você pode rodar célula por célula clicando no botão de "play" ao lado de cada célula.
+
+Passo 4: Salvar o Trabalho
+Se você modificar o notebook e quiser salvar, basta clicar em "File" e escolher "Save a copy in Drive" (Salvar uma cópia no Google Drive), para ter sua própria cópia salva diretamente no Google Drive.
+
+
