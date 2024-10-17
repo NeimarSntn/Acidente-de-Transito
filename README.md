@@ -8,7 +8,7 @@ Dados extraídos (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos
 
 ![image](https://github.com/user-attachments/assets/ec156210-329d-411f-a18a-0352815f1780)
 
-![image](https://github.com/user-attachments/assets/91c60d9e-65e1-40a3-b8f6-a8780160693f)
+![image](https://github.com/user-attachments/assets/23ec5851-403f-4f78-b503-d79caf6090ad)
 
 ![image](https://github.com/user-attachments/assets/cd9055ad-3713-46c5-8378-b72e6a93e8db)
 
